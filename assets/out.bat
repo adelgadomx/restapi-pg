@@ -1,0 +1,1 @@
+echo %time% Entry ... >> c:\tmp\out.txt
